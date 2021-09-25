@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0227a14-c6d8-41cd-b294-22392135413d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yOoknYLkowcZnOhteSlp9yL3wh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo t570\PycharmProjects\KalvadDjangoShoppingCart" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo t570\PycharmProjects\KalvadDjangoShoppingCart\uploads\products" />
+      <recent name="C:\Users\Lenovo t570\PycharmProjects\KalvadDjangoShoppingCart" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo t570\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632376597533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1632376597533" />
+    <state x="683" y="118" key="FileChooserDialogImpl" timestamp="1632135381595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="683" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1632135381595" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1632554643041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632554643041" />
+  </component>
+</project>
