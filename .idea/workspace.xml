@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0227a14-c6d8-41cd-b294-22392135413d" name="Default Changelist" comment="" />
+    <list default="true" id="e0227a14-c6d8-41cd-b294-22392135413d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/store/migrations/0007_auto_20210928_1412.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/middlewares/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/middlewares/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0002_auto_20210423_1934.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0002_auto_20210423_1934.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0003_order_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0003_order_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0004_order_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0004_order_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0005_order_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0005_order_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/migrations/0006_order_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/migrations/0006_order_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templatetags/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/templatetags/cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templatetags/custom_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/templatetags/custom_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/checkout.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/checkout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views/signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/signup.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +48,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1yOoknYLkowcZnOhteSlp9yL3wh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -34,21 +79,72 @@
       <recent name="C:\Users\Lenovo t570\PycharmProjects\KalvadDjangoShoppingCart" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KalvadDjangoShoppingCart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Lenovo t570\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632376597533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1632376597533" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1632819484059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1632819484059" />
     <state x="683" y="118" key="FileChooserDialogImpl" timestamp="1632135381595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="683" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1632135381595" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1632554643041">
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1632650833888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632554643041" />
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632650833888" />
+    <state width="1345" height="188" key="GridCell.Tab.0.center" timestamp="1632650833888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1632650833888" />
+    <state width="1345" height="188" key="GridCell.Tab.0.left" timestamp="1632650833888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1632650833888" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right" timestamp="1632650833888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1632650833888" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1632650751336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632650751336" />
   </component>
 </project>
