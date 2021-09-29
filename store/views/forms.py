@@ -10,3 +10,4 @@ class RegisterForm(UserCreationForm):
         model = Customer
 
         fields = ["username", "email", "password1", "password2"]
+

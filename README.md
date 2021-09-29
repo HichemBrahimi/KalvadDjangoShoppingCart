@@ -16,6 +16,7 @@ L'administrateur insère un élément
 L'administrateur supprime l'élément
 L'administrateur modifie l'élément
 
+
 ----------------------------------
 pour executer apllication :
 python manage.py runserver  

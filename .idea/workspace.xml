@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0227a14-c6d8-41cd-b294-22392135413d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/store/migrations/0007_auto_20210928_1412.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KalvadDjangoShoppingCart/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/KalvadDjangoShoppingCart/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />

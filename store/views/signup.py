@@ -17,4 +17,5 @@ def Signup(response):
     else:
         form = RegisterForm()
 
+
     return render(response, "signup.html", {"form": form})
